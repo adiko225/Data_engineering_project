@@ -1,0 +1,3 @@
+2025-Feb-03-14:41:28,Extraction start
+2025-Feb-03-14:41:28,Loading start
+2025-Feb-03-14:41:28,Extraction ending successfully
